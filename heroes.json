@@ -13,16 +13,10 @@
       "element": "wind"
     },
     {
-      "id": 3,
+      "id": "773fb226-68a7-4448-be3a-3755caa405e6",
       "name": "Морской герой",
-      "description": "Как аквамен, но не из DC",
+      "description": "Как Аквамен , но не из DC",
       "element": "water"
-    },
-    {
-      "id": "10377bf8-7414-4892-9062-d58b68e305fd",
-      "name": "Gunther Man",
-      "description": "I will slap your teeth down you throat!",
-      "element": "fire"
     }
   ],
   "filters": [
